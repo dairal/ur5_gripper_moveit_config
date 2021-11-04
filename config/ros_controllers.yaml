@@ -86,7 +86,7 @@ gripper_controller:
     - robotiq_85_left_knuckle_joint
   gains:
     robotiq_85_left_knuckle_joint:
-      p: 1
+      p: 40
       d: 0
       i: 0
       i_clamp: 1
